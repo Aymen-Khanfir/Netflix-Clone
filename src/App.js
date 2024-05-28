@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./components/Navbar/Navbar"
+import Navbar from "./components/Navbar/Navbar";
 import Banner from "./components/Banner/Banner";
-import Row from "./components/Row/Row";
+import Row from "./components/row/Row";
 import requestMovies from "./requests";
 
 function App() {
